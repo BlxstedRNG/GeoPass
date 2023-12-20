@@ -1,0 +1,4 @@
+Requirements for GeoPass:
+1) Must Have Python Installed
+2) Must Have the Following Python Libs: Random, String, Tkinter
+3) If you enjoy this project, leave a review (joking its optional but nice)
